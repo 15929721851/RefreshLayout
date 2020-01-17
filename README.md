@@ -1,4 +1,4 @@
-修改自[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout/tree/master) 2.0版本
+修改自[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout/tree/master) 2.0 版本
 
 
 
@@ -10,7 +10,13 @@
 
     
 
-2. 增加`autoRefresh`下拉刷新时动画时长, 看上去动画更加平滑
+2. 增加下拉刷新/上拉加载时动画持续时间以及减少回弹比率, 使动画看上去更加自然平滑
+
+
+
+
+
+如果想体验具备缺省页和自动处理下拉刷新/上拉加载/分页加载等功能的可以试试我的另一个库: [BRV](https://github.com/liangjingkanji/BRV)
 
 
 
